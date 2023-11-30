@@ -22,7 +22,7 @@ footer {
     text-align: center;
     height:
     }
-/* Ensures a small space between cards when screen is shrunk */
+/* Ensures a small space between services cards when screen is shrunk */
 .card {
     margin-bottom: 20px; 
     }
