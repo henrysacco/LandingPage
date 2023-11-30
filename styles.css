@@ -4,12 +4,14 @@
     padding: 0;
     box-sizing: border-box;  
 }
+/* Style for the Hero section */
 .hero { 
     background-color: blue; 
     color: white; 
     padding: 50px 0; 
     }
-footer {
+/* Flexbox Styling for the Footer */
+    footer {
     display: flex;
     flex-direction: column;
     align-items: center;
